@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "com.next",
+      "type": "com.next.api.config.FaceConfig",
+      "sourceType": "com.next.api.config.FaceConfig"
+    }
+  ],
+  "properties": [
+    {
+      "name": "com.next.face-file-space",
+      "type": "java.lang.String",
+      "sourceType": "com.next.api.config.FaceConfig"
+    },
+    {
+      "name": "com.next.url",
+      "type": "java.lang.String",
+      "sourceType": "com.next.api.config.FaceConfig"
+    }
+  ],
+  "hints": []
+}

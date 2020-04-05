@@ -1,0 +1,15 @@
+com\next\api\config\FaceConfig.class
+com\next\api\controller\SearchController.class
+com\next\api\controller\HelloController.class
+com\next\api\controller\IndexController.class
+com\next\api\controller\UsersController.class
+com\next\api\schedule\MyJob.class
+com\next\api\config\MPWXConfig.class
+META-INF\spring-configuration-metadata.json
+com\next\api\controller\interceptor\UserTokenInterceper.class
+com\next\api\Application.class
+com\next\api\config\RabbitMQConfig.class
+com\next\api\controller\MPWXController.class
+com\next\api\config\AutoBootRunner.class
+com\next\api\config\Swagger2.class
+com\next\api\config\WebMVCConfig.class

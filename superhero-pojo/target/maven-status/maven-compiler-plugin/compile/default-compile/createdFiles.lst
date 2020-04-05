@@ -1,0 +1,9 @@
+com\next\pojo\Movie.class
+com\next\pojo\Staff.class
+com\next\pojo\bo\RegistLoginUsersBO.class
+com\next\pojo\vo\UsersVO.class
+com\next\pojo\bo\MPWXUserBO.class
+com\next\pojo\bo\MovieMQMsgBO.class
+com\next\pojo\StaffMovie.class
+com\next\pojo\bo\ModifiedUserBO.class
+com\next\pojo\Carousel.class
